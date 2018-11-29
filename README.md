@@ -4,8 +4,9 @@ Smart Bin was the project developed in order to preserve the environment and als
 The Files provided include:
   The code to implemented in the Arduino.
   The code developed using certain libraries.
-  The coede developed using basic Python.
+  The code developed using basic Python.
   
+
 
 
 
